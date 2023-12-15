@@ -1,4 +1,4 @@
-# 1. An introduction to input-output analysis
+# 1. An introduction to input-output analysis 
 
 Before we learn input-output analysis, we will start with an introduction to matrix algebra - a technique used extensively in IO
 

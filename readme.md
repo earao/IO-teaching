@@ -7,15 +7,14 @@ If you've studied matrix algebra in your previous degree or even at high school,
 Open Jupyter notebooks, then upload this workbook to your workspace.
 
 <a href="https://github.com/earao/IO-teaching/blob/main/Unit1a_IO_1_Matrix_Algebra.ipynb" download>
-  file="https://github.com/earao/IO-teaching/blob/main/Unit1a_IO_1_Matrix_Algebra.ipynb"
+  Workbook 1:Matrix algebra using Python
 </a>
 
-<a href="https://github.com/earao/images/blob/main/Picture%201.png?raw=true" download>
-  <img src="https://github.com/earao/images/blob/main/Picture%201.png?raw=true" alt="W3Schools">
-</a>
 
 ## Answers
 
 If you want to check your work or to get a hint as to where you might be going wrong, here are the answers to Workbook 1: Matrix algebra:
 
-ANSWERS_Unit1a_IO_1_Matrix_Algebra.ipynb
+<a href="https://github.com/earao/IO-teaching/blob/main/ANSWERS_Unit1a_IO_1_Matrix_Algebra.ipynb" download>
+  Workbook 1 ANSWERS :Matrix algebra using Python
+</a>

@@ -36,3 +36,8 @@ This video introduces the concept of input-output analysis, leading you through 
 
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/b7af5a04-9a1a-4c9b-a960-213d5cdf2108?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
+## Input-output video 3: Multiregional Input-Output (11 minutes)
+
+This video introduces the concept of multiregional input-output analysis.
+
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/025a1d36-37f5-4e3e-8c9d-c94951be6a3a?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>

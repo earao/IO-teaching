@@ -6,7 +6,6 @@ If you've studied matrix algebra in your previous degree or even at high school,
 
 Open Jupyter notebooks, then upload this workbook to your workspace. 
 
-<img src="https://github.com/earao/images/blob/main/Picture%201.png?raw=true" width=600 height=470 />
 <a href="https://github.com/earao/images/blob/main/Picture%201.png?raw=true" download>
   <img src="https://github.com/earao/images/blob/main/Picture%201.png?raw=true" alt="W3Schools">
 </a>

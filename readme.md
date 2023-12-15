@@ -30,6 +30,3 @@ One of the main uses of input-output analysis is to calculate consumption-based 
 
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/e9e04bf4-671b-40d3-bf3c-8b92b9c6a89b?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
-
-<a href="https://web.microsoftstream.com/embed/video/e9e04bf4-671b-40d3-bf3c-8b92b9c6a89b"
-</a>

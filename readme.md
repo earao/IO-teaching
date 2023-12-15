@@ -6,6 +6,8 @@ If you've studied matrix algebra in your previous degree or even at high school,
 
 Open Jupyter notebooks, then upload this workbook to your workspace. 
 
+[download]({{ site.baseurl }}{% https://github.com/earao/IO-teaching/blob/main/Unit1a_IO_1_Matrix_Algebra.ipynb %})
+
 [Unit1a_IO_1_Matrix_Algebra.ipynb](https://github.com/earao/IO-teaching/blob/main/Unit1a_IO_1_Matrix_Algebra.ipynb)
 
 ## Answers

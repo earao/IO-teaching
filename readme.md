@@ -9,11 +9,11 @@ If you've studied matrix algebra in your previous degree or even at high school,
 Right click and download this file:
 
 <a href="https://raw.githubusercontent.com/earao/IO-teaching-1-Intro-to-IO/Unit1a_IO_1_Matrix_Algebra.ipynb" download>
-  Workbook 1: Matrix algebra using Python
+  Workbook 1: Matrix algebra using Python 1
 </a>
 
 <a href="https://github.com/earao/IO-teaching/blob/main/Unit1a_IO_1_Matrix_Algebra.ipynb" download>
-  Workbook 1: Matrix algebra using Python
+  Workbook 1: Matrix algebra using Python 2
 </a>
 
 Then open Jupyter notebooks and upload the file to your workspace

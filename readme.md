@@ -16,7 +16,9 @@ Then open Jupyter notebooks and upload the file to your workspace
 
 ## Workbook 1: Answers
 
-If you want to check your work or to get a hint as to where you might be going wrong, here are the answers to Workbook 1: Matrix algebra:
+If you want to check your work or to get a hint as to where you might be going wrong, here are the answers to Workbook 1: Matrix algebra.
+
+Right click and download this file:
 
 <a href="https://dataverse.harvard.edu/api/access/datafile/8079359" download>
   Workbook 1 ANSWERS: Matrix algebra using Python

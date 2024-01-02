@@ -8,8 +8,8 @@ If you've studied matrix algebra in your previous degree or even at high school,
 
 Right click and download this file:
 
-<a href="https://github.com/earao/IO-teaching-1-Intro-to-IO/blob/main/Unit1a_IO_1_Matrix_Algebra.ipynb.zip" download>
-  Workbook 1: Matrix algebra using Python 3
+<a href="https://dataverse.harvard.edu/api/access/datafile/8079352" download>
+  Workbook 1: Matrix algebra using Python
 </a>
 
 Then open Jupyter notebooks and upload the file to your workspace

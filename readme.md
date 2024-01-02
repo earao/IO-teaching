@@ -30,9 +30,7 @@ This video introduces the idea of accounting for emissions from a consumption ra
 
 One of the main uses of input-output analysis is to calculate consumption-based accounts.
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=gpIJxonEsqk">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gpIJxonEsqk?si=qYgHtAxwhqFE-ac_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Input-output video 2: Input-Output - the basics (15 minutes)
 

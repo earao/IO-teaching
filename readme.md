@@ -80,7 +80,7 @@ In this workbook you are going to find out the consumption emissions of the town
 
 Right click and download this file:
 
-<a href="https://github.com/earao/IO-teaching/blob/main/Unit1a_IO_2_Intro to .ipynb" download>
+<a href="https://dataverse.harvard.edu/api/access/datafile/8079404" download>
   Workbook 2: Introduction to input-output analysis using Python
 </a>
 
@@ -90,6 +90,6 @@ Then open Jupyter notebooks and upload the file to your workspace
 
 If you want to check your work or to get a hint as to where you might be going wrong, here are the answers to Workbook 2: Introduction to input-output analysis using Python:
 
-<a href="https://github.com/earao/IO-teaching/blob/main/ANSWERS_Unit1a_IO_1_Matrix_Algebra.ipynb" download>
+<a href="https://dataverse.harvard.edu/api/access/datafile/8079406" download>
   Workbook 2 ANSWERS: Introduction to input-output analysis using Python
 </a>

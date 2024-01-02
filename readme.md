@@ -65,6 +65,7 @@ This paper by Hinkel (2020) offers an interesting persepctive on responsibility:
   Hinkel (2020) Quantifying national responsibility 
 </a>
 
+
 This paper by Wiedmann et al. (2017) looks to the future of MRIO modelling:
 
 <a href="https://www.mdpi.com/2079-9276/2/4/489" download>

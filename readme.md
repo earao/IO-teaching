@@ -34,13 +34,14 @@ One of the main uses of input-output analysis is to calculate consumption-based 
 
 This video introduces the concept of input-output analysis, leading you through some of the data and calculations required.
 
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/b7af5a04-9a1a-4c9b-a960-213d5cdf2108?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDWqVh09fXg?si=d38TsgyfquUkldZF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Input-output video 3: Multiregional Input-Output (11 minutes)
 
 This video introduces the concept of multiregional input-output analysis.
 
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/025a1d36-37f5-4e3e-8c9d-c94951be6a3a?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rpcs27GJXIE?si=NrWBmuhAcDqWdJww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Key Reading
 
@@ -56,10 +57,16 @@ This paper by Afionis et al. (2017) is an interesting critique of the technique:
   Afionis et al. (2017) Consumption-based accounting does it have a future? 
 </a>
 
-## Key Reading
+## Recommeded Reading
+
+This paper by Hinkel (2020) offers an interesting persepctive on responsibility:
+
 <a href="https://www.mdpi.com/2079-9276/2/4/489" download>
   Hinkel (2020) Quantifying national responsibility 
 </a>
+
+This paper by Wiedmann et al. (2017) looks to the future of MRIO modelling:
+
 <a href="https://www.mdpi.com/2079-9276/2/4/489" download>
   Wiedmann et al. (2017) Quo Vardis MRIO? 
 </a>

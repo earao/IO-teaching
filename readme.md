@@ -12,10 +12,6 @@ Right click and download this file:
   Workbook 1: Matrix algebra using Python 1
 </a>
 
-<a href="https://raw.githubusercontent.com/earao/IO-teaching/blob/main/Unit1a_IO_1_Matrix_Algebra.ipynb" download>
-  Workbook 1: Matrix algebra using Python 2
-</a>
-
 Then open Jupyter notebooks and upload the file to your workspace
 
 ## Workbook 1: Answers

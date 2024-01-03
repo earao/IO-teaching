@@ -59,7 +59,7 @@ This paper by Afionis et al. (2017) is an interesting critique of the technique:
   Afionis et al. (2017) Consumption-based accounting does it have a future? 
 </a>
 
-## Recommeded Reading
+## Recommended Reading
 
 This paper by Hinkel (2020) offers an interesting persepctive on responsibility:
 

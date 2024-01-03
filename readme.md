@@ -55,7 +55,7 @@ This paper by Kitzes (2013) gices a good explanation of environmentally-extended
 
 This paper by Afionis et al. (2017) is an interesting critique of the technique:
 
-<a href="https://www.mdpi.com/2079-9276/2/4/489" download>
+<a href="https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcc.438" download>
   Afionis et al. (2017) Consumption-based accounting does it have a future? 
 </a>
 
@@ -63,14 +63,14 @@ This paper by Afionis et al. (2017) is an interesting critique of the technique:
 
 This paper by Hinkel (2020) offers an interesting persepctive on responsibility:
 
-<a href="https://www.mdpi.com/2079-9276/2/4/489" download>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32918885/" download>
   Hinkel (2020) Quantifying national responsibility 
 </a>
 
 
 This paper by Wiedmann et al. (2017) looks to the future of MRIO modelling:
 
-<a href="https://www.mdpi.com/2079-9276/2/4/489" download>
+<a href="https://www.sciencedirect.com/science/article/pii/S0921800911002606" download>
   Wiedmann et al. (2017) Quo Vardis MRIO? 
 </a>
 
